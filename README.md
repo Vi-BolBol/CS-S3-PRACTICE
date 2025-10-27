@@ -1,3 +1,0 @@
-﻿# CS-S3-PRACTICE
-
-A
