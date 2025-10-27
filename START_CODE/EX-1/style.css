@@ -1,0 +1,36 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.btn{
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+#btn1{
+    background-color: green;
+}
+
+#btn2{
+    color: black;
+    background-color: orange;
+}
+
+#btn3{
+    color: white;
+    background-color: purple;
+}
